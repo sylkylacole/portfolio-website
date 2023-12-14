@@ -1,1 +1,68 @@
+* {
+  background-color: #624a36;
+  color: white;
+}
 
+h1 {
+  font-size: xxx-large;
+  text-align: center;
+}
+
+#content {
+  display: inline-flex;
+}
+
+.design {
+  margin: 10px 100px 10px 10px;
+}
+
+#eren_poster {
+  width: 600px;
+}
+
+h2 {
+  text-align: center;
+  line-height: 50px;
+}
+
+p {
+  margin-left: 100px;
+  margin-right: 10px;
+  max-width: 50ch;
+  text-align: center;
+  line-height: 50px;
+}
+
+#xg_promo {
+  width: 800px;
+  height: 800px;
+}
+
+#blueryai {
+  width: 600;
+  height: 400px;
+}
+
+#gotm {
+  width: 500px;
+}
+
+#cris {
+  width:800px
+}
+
+#yeongji {
+  width: 800px;
+}
+
+#tuv {
+  width: 800px;
+}
+
+#gina {
+  width: 800px;
+}
+
+#cosaje {
+  width: 800px;
+}
