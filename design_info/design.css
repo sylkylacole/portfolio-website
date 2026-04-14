@@ -165,7 +165,8 @@ h1 {
 }
 
 #content {
-  display: inline-flex;
+  display: flex;
+  flex-direction: column;
 }
 
 .design {
@@ -182,7 +183,7 @@ h2 {
 }
 
 p {
-  margin-left: 100px;
+  margin-left: 670px;
   margin-right: 10px;
   max-width: 50ch;
   text-align: center;
@@ -221,4 +222,24 @@ p {
 
 #cosaje {
   width: 800px;
+}
+
+.design1 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#vlanding {
+  height: 50%;
+  width: 50%
+}
+
+#vvol {
+  height: 50%;
+  width: 50%
+}
+
+#vorg {
+  height: 50%;
+  width: 50%
 }
